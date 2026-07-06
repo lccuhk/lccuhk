@@ -81,12 +81,12 @@ I'm passionate about building practical and interesting projects, ranging from r
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=lccuhk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=lccuhk&theme=tokyonight&hide_border=true&background=0d1117" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=lccuhk&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img width="48%" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=lccuhk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lccuhk&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117" />
+  <img src="https://ghchart.rshah.org/0d1117/lccuhk" alt="Denis's GitHub Contribution Chart" />
 </p>
 
 ---
