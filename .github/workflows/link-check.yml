@@ -2,9 +2,8 @@ name: Link Check
 
 on:
   push:
-    branches: [ main ]
   pull_request:
-    branches: [ main ]
+  workflow_dispatch:
   schedule:
     - cron: '0 0 * * 0'  # 每周日运行一次
 
@@ -18,7 +17,7 @@ jobs:
       - name: Link Checker
         uses: lycheeverse/lychee-action@v1
         with:
-          args: --verbose --no-progress './**/*.md' './**/*.html'
+          args: --verbose --no-progress --exclude-mail './**/*.md' './**/*.html'
           fail: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
