@@ -1,8 +1,12 @@
 name: Link Check
 
-"on":
+on:
   push:
+    branches:
+      - main
   pull_request:
+    branches:
+      - main
   workflow_dispatch:
   schedule:
     - cron: '0 0 * * 0'  # 每周日运行一次
