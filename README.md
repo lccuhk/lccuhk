@@ -120,6 +120,57 @@ I'm passionate about building practical and interesting projects, ranging from r
 
 ---
 
+## 🎯 里程碑规划
+
+我们按以下里程碑推进个人主页的优化：
+
+| 里程碑 | 状态 | 目标 | 预计完成 |
+|--------|------|------|---------|
+| **v0.x Stabilization** | 🟡 进行中 | 完善基础配置，提升页面展示效果 | 2026 Q3 |
+| **Docs & Onboarding** | ⚪ 待办 | 完善项目文档，增加更多展示内容 | 2026 Q3 |
+| **Public Release** | ⚪ 待办 | 对外发布与推广，建立个人品牌 | 2026 Q4 |
+
+### 里程碑详情
+
+#### v0.x Stabilization
+- [ ] 完善所有项目链接
+- [ ] 优化页面响应式布局
+- [ ] 添加更多个人技能展示
+- [ ] 完善社交媒体链接
+
+#### Docs & Onboarding
+- [ ] 添加详细的个人介绍
+- [ ] 创建项目展示指南
+- [ ] 提供更多技术博客链接
+- [ ] 添加常见问题解答
+
+#### Public Release
+- [ ] 发布 v1.0 正式版本
+- [ ] 撰写个人介绍博客
+- [ ] 分享到技术社区
+- [ ] 建立个人品牌影响力
+
+## 📋 项目管理
+
+我们使用 GitHub Projects 进行看板化管理：
+
+### 工作流
+```
+📥 待办 → 🔄 进行中 → ✅ 完成 → 🚀 已发布
+```
+
+### 看板状态
+- **📥 待办** - 待处理的 Issue 和 PR
+- **🔄 进行中** - 正在开发的任务
+- **✅ 完成** - 已完成待合并的任务
+- **🚀 已发布** - 已发布到正式版本
+
+### 关联项目
+- [📊 项目看板](https://github.com/users/lccuhk/projects) - 查看所有项目进度
+- [📝 里程碑](https://github.com/lccuhk/lccuhk/milestones) - 查看里程碑详情
+
+---
+
 <p align="center">
   <i>⭐️ From [lccuhk](https://github.com/lccuhk) with ❤️</i>
 </p>
