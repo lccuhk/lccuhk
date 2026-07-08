@@ -120,6 +120,36 @@ I'm passionate about building practical and interesting projects, ranging from r
 
 ---
 
+## 🗺️ Roadmap
+
+### Short-term Goals
+- [ ] Add more project showcases
+- [ ] Improve GitHub statistics display
+- [ ] Add personal blog links
+- [ ] Optimize responsive layout
+- [ ] Add more social media links
+
+### Mid-term Goals
+- [ ] Add portfolio section
+- [ ] Implement blog post showcase
+- [ ] Add skill visualization
+- [ ] Support multi-language (English, Chinese)
+- [ ] Add visitor statistics
+
+### Long-term Goals
+- [ ] Build complete personal brand page
+- [ ] Add online resume generator
+- [ ] Integrate more third-party services
+- [ ] Add interactive elements
+- [ ] Publish as reusable template
+
+### Feature Enhancement
+- [ ] Add more animation effects
+- [ ] Optimize mobile experience
+- [ ] Support dark/light mode toggle
+- [ ] Add custom theme support
+- [ ] Integrate more GitHub features
+
 ## 🎯 里程碑规划
 
 我们按以下里程碑推进个人主页的优化：
