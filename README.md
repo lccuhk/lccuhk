@@ -39,12 +39,12 @@ I'm passionate about building practical and interesting projects, ranging from r
 | Project | Description | Stars |
 |---------|-------------|-------|
 | [**ai-trader-customization**](https://github.com/lccuhk/ai-trader-customization) | AI-powered trading assistant platform | ![GitHub stars](https://img.shields.io/github/stars/lccuhk/ai-trader-customization?style=flat-square&label=) |
-| [**WalletLabel-Bot**](https://github.com/lccuhk/WalletLabel-Bot) | Telegram bot for crypto wallet analysis | ![GitHub stars](https://img.shields.io/github/stars/lccuhk/WalletLabel-Bot?style=flat-square&label=) |
+| [**wallet-label-bot**](https://github.com/lccuhk/wallet-label-bot) | Telegram bot for crypto wallet analysis | ![GitHub stars](https://img.shields.io/github/stars/lccuhk/wallet-label-bot?style=flat-square&label=) |
 
 ### 🎮 Game Development
 | Project | Description | Stars |
 |---------|-------------|-------|
-| [**couple-mini-game**](https://github.com/lccuhk/couple-mini-game) | 40+ couple mini-games collection | ![GitHub stars](https://img.shields.io/github/stars/lccuhk/couple-mini-game?style=flat-square&label=) |
+| [**couple-mini-game**](https://github.com/lccuhk/couple-mini-game) | 41 couple mini-games collection | ![GitHub stars](https://img.shields.io/github/stars/lccuhk/couple-mini-game?style=flat-square&label=) |
 
 ### 🔮 Web Applications
 | Project | Description | Stars |
@@ -107,8 +107,11 @@ I'm passionate about building practical and interesting projects, ranging from r
   <a href="https://github.com/lccuhk">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-  <a href="mailto:your.email@example.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://twitter.com/lccuhk">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+  <a href="https://www.linkedin.com/in/lccuhk">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
