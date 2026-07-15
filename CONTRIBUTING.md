@@ -73,6 +73,156 @@
 - 使用可访问的图片链接
 - 添加 alt 文本描述
 
+## 内容风格指南
+
+### Git 提交规范
+
+我们遵循 [Conventional Commits](https://www.conventionalcommits.org/) 规范：
+
+```
+<type>(<scope>): <subject>
+
+<body>
+
+<footer>
+```
+
+**提交类型（type）：**
+- `feat` - 新内容、新章节
+- `fix` - 修复错误、修复链接
+- `docs` - 文档更新
+- `style` - 格式调整（不影响内容）
+- `refactor` - 内容重构
+- `perf` - 性能优化（图片压缩等）
+- `chore` - 辅助工具的变动
+- `ci` - CI/CD 配置变更
+- `revert` - 回退提交
+
+**示例：**
+```
+feat(projects): add new project showcase section
+
+- Add couple-mini-game project card
+- Update project descriptions
+- Add project statistics badges
+- Fix broken links in project list
+
+Closes #456
+```
+
+**提交规范：**
+- 标题不超过 72 个字符
+- 使用中文或英文均可，但要保持一致
+- 标题使用祈使句（"添加" 而不是 "添加了"）
+- 正文详细说明改动的原因和内容
+- 关联相关 Issue（如 `Closes #123`、`Fixes #456`）
+
+### Markdown 风格指南
+
+#### 标题规范
+```markdown
+# 一级标题（页面标题，只有一个）
+
+## 二级标题（主要章节）
+
+### 三级标题（子章节）
+
+#### 四级标题（小节）
+```
+
+#### 列表规范
+```markdown
+<!-- 无序列表 -->
+- 项目一
+- 项目二
+  - 子项目
+  - 子项目
+- 项目三
+
+<!-- 有序列表 -->
+1. 第一步
+2. 第二步
+3. 第三步
+
+<!-- 任务列表 -->
+- [x] 已完成任务
+- [ ] 待完成任务
+- [ ] 待完成任务
+```
+
+#### 链接规范
+```markdown
+<!-- 行内链接 -->
+[链接文本](https://example.com)
+
+<!-- 引用式链接 -->
+[链接文本][reference]
+
+[reference]: https://example.com
+
+<!-- 图片 -->
+![替代文本](image.png)
+![替代文本](image.png "图片标题")
+```
+
+#### 代码块规范
+````markdown
+<!-- 行内代码 -->
+使用 `code` 标签
+
+<!-- 代码块 - 指定语言 -->
+```javascript
+const message = 'Hello, World!'
+console.log(message)
+```
+
+```python
+def hello():
+    print('Hello, World!')
+```
+
+```bash
+npm install
+npm run dev
+```
+````
+
+#### 表格规范
+```markdown
+| 列标题 1 | 列标题 2 | 列标题 3 |
+|---------|---------|---------|
+| 内容 1  | 内容 2  | 内容 3  |
+| 内容 4  | 内容 5  | 内容 6  |
+```
+
+#### 引用规范
+```markdown
+> 这是一段引用文本
+> 可以跨越多行
+>
+> — 作者名
+```
+
+### 内容规范
+
+#### 徽章规范
+- 使用 shields.io 生成徽章
+- 徽章风格统一（for-the-badge）
+- 颜色搭配协调
+- 链接指向正确的目标
+
+#### 图片规范
+- 使用 SVG 格式优先
+- 图片尺寸适中
+- 添加 alt 文本描述
+- 使用稳定的图片托管服务
+
+#### 链接规范
+- 使用 HTTPS 协议
+- 链接必须有效
+- 避免使用短链接
+- 定期检查链接有效性
+
 ## 开发环境
 
 本项目是一个 GitHub Profile README 项目，主要使用 Markdown 编写：
